@@ -1,0 +1,3 @@
+[submodule "packages/gitsubrepo1"]
+	path = packages/gitsubrepo1
+	url = https://github.com/vurtnec/gitsubrepo.git
